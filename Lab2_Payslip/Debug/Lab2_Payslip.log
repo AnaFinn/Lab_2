@@ -1,0 +1,3 @@
+﻿  Lab2_Payslip.cpp
+C:\Users\karpo\Desktop\CS103\Lab2_Payslip\Lab2_Payslip\Lab2_Payslip.cpp(128,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab2_Payslip.vcxproj -> C:\Users\karpo\Desktop\CS103\Lab2_Payslip\Debug\Lab2_Payslip.exe
